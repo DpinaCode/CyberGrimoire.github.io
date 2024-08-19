@@ -14,7 +14,7 @@ Teste Templates
 | **Field**       | **Details**                                      |
 |-----------------|--------------------------------------------------|
 | **Summary**     | A brief overview of the vulnerability.           |
-| **Criticity**   | High/Medium/Low                                  |
+| **Criticity:** High| **Endpoints:** www.test.com | **CVE:** CVE-2023-XXXXX    |
 | **Endpoints**   | List of affected endpoints.                      |
 | **CVE**         | CVE-2023-XXXXX                                   |
 | **Description** | Detailed explanation of the vulnerability.       |
