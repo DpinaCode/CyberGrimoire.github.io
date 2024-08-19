@@ -16,7 +16,7 @@ Teste Templates
 | **Summary**     | A brief overview of the vulnerability.           |
 | **Criticity:** High| **Endpoints:** www.test.com | **CVE:** CVE-2023-XXXXX    |
 | **Description**                                                    |
-| |
+| Detailed explanation of the vulnerability.                         |
 | **Remediation** | Steps to remediate the vulnerability.            |
 | **Resources**   | Links to additional resources or references.     |
 
