@@ -27,10 +27,6 @@ A child and grandchild page of this page use the minimal layout. This differs fr
 
 [Jekyll's front matter defaults] can be used to apply the `minimal` layout for many pages. But there are also other variables that can control the page layout. In `_config.yml`, you can set `nav_enabled: false` to disable the sidebar navigation panel across the entire site. This can then be selectively enabled on a page-by-page basis by assigning the `nav_enabled: true` page [front matter] variable. For instance, this could be used to enable sidebar navigation on a home page while all other pages have sidebar navigation disabled.
 
-```yaml
-
-
-```
 
 ## Other layouts
 
