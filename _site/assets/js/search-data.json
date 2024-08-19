@@ -316,7 +316,7 @@
   },"45": {
     "doc": "XSS - Reflected",
     "title": "Vulnerability Report: [Vulnerability Name]",
-    "content": "| Field | Details |   | . | Summary | A brief overview of the vulnerability. |   | . | Criticity: High | Endpoints: www.test.com | CVE: CVE-2023-XXXXX | . | Endpoints | List of affected endpoints. |   | . | CVE | CVE-2023-XXXXX |   | . | Description | Detailed explanation of the vulnerability. |   | . | Remediation | Steps to remediate the vulnerability. |   | . | Resources | Links to additional resources or references. |   | . | Criticity | Endpoints | CVE | . | High | /login, /api/data, /admin | CVE-2023-XXXXX | . ",
+    "content": "| Field | Details |   | . | Summary | A brief overview of the vulnerability. |   | . | Criticity: High | Endpoints: www.test.com | CVE: CVE-2023-XXXXX | . | Description |   |   | . |   |   |   | . | Remediation | Steps to remediate the vulnerability. |   | . | Resources | Links to additional resources or references. |   | . | Criticity | Endpoints | CVE | . | High | /login, /api/data, /admin | CVE-2023-XXXXX | . ",
     "url": "/docs/Templates/Web%20Templates/XSS_Reflected/#vulnerability-report-vulnerability-name",
     
     "relUrl": "/docs/Templates/Web%20Templates/XSS_Reflected/#vulnerability-report-vulnerability-name"
