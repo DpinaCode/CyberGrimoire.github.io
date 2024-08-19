@@ -1,3 +1,7 @@
+---
+nav_exclude: true
+---
+
 # Navigation Structure
 {: .no_toc }
 

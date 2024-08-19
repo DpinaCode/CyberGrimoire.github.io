@@ -1,4 +1,6 @@
-
+---
+nav_exclude: true
+---
 
 # Search
 {: .no_toc }
