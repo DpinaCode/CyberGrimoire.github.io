@@ -491,7 +491,7 @@
   },"70": {
     "doc": "Home",
     "title": "Focus on writing good documentation1",
-    "content": "Teste Git Push!.. Get started now [View it on GitHub][Just the Docs repo]{: .btn .fs-5 .mb-4 .mb-md-0 } . This website documents the features of the current main branch of the Just the Docs theme. See the CHANGELOG for a list of releases, new features, and bug fixes. Just the Docs is a theme for generating static websites with Jekyll. You can write source files for your web pages using [Markdown], the [Liquid] templating language, and HTML.1 Jekyll builds your site by converting all files that have [front matter] to HTML. Your [Jekyll configuration] file determines which theme to use, and sets general parameters for your site, such as the URL of its home page. Jekyll builds this Just the Docs theme docs website using the theme itself. These web pages show how your web pages will look by default when you use this theme. But you can easily [customize] the theme to make them look completely different! . Browse the docs to learn more about how to use this theme. ",
+    "content": "Teste Git Push!..!11!!!!!!!!! . Get started now [View it on GitHub][Just the Docs repo]{: .btn .fs-5 .mb-4 .mb-md-0 } . This website documents the features of the current main branch of the Just the Docs theme. See the CHANGELOG for a list of releases, new features, and bug fixes. Just the Docs is a theme for generating static websites with Jekyll. You can write source files for your web pages using [Markdown], the [Liquid] templating language, and HTML.1 Jekyll builds your site by converting all files that have [front matter] to HTML. Your [Jekyll configuration] file determines which theme to use, and sets general parameters for your site, such as the URL of its home page. Jekyll builds this Just the Docs theme docs website using the theme itself. These web pages show how your web pages will look by default when you use this theme. But you can easily [customize] the theme to make them look completely different! . Browse the docs to learn more about how to use this theme. ",
     "url": "/#focus-on-writing-good-documentation1",
     
     "relUrl": "/#focus-on-writing-good-documentation1"
@@ -678,146 +678,97 @@
     
     "relUrl": "/docs/ui-components/tables/"
   },"97": {
-    "doc": "Typography",
-    "title": "Typography Utilities",
-    "content": " ",
-    "url": "/docs/utilities/typography/#typography-utilities",
-    
-    "relUrl": "/docs/utilities/typography/#typography-utilities"
-  },"98": {
-    "doc": "Typography",
-    "title": "Table of contents",
-    "content": ". | Font size | Font weight | Line height | Text justification | . ",
-    "url": "/docs/utilities/typography/#table-of-contents",
-    
-    "relUrl": "/docs/utilities/typography/#table-of-contents"
-  },"99": {
-    "doc": "Typography",
-    "title": "Font size",
-    "content": "Use the .fs-1 - .fs-10 to set an explicit font-size. | Class | Small screen size font-size | Large screen size font-size | . | .fs-1 | 9px | 10px | . | .fs-2 | 11px | 12px | . | .fs-3 | 12px | 14px | . | .fs-4 | 14px | 16px | . | .fs-5 | 16px | 18px | . | .fs-6 | 18px | 24px | . | .fs-7 | 24px | 32px | . | .fs-8 | 32px | 38px | . | .fs-9 | 38px | 42px | . | .fs-10 | 42px | 48px | . Font size 1 . Font size 2 . Font size 3 . Font size 4 . Font size 5 . Font size 6 . Font size 7 . Font size 8 . Font size 9 . Font size 10 . In Markdown, use the `{: }` wrapper to apply custom classes: Font size 1 {: .fs-1 } Font size 2 {: .fs-2 } Font size 3 {: .fs-3 } Font size 4 {: .fs-4 } Font size 5 {: .fs-5 } Font size 6 {: .fs-6 } Font size 7 {: .fs-7 } Font size 8 {: .fs-8 } Font size 9 {: .fs-9 } Font size 10 {: .fs-10 } . ",
-    "url": "/docs/utilities/typography/#font-size",
-    
-    "relUrl": "/docs/utilities/typography/#font-size"
-  },"100": {
-    "doc": "Typography",
-    "title": "Font weight",
-    "content": "Use the .fw-300 - .fw-700 to set an explicit font-weight. Font weight 300 . Font weight 400 . Font weight 500 . Font weight 700 . In Markdown, use the `{: }` wrapper to apply custom classes: Font weight 300 {: .fw-300 } Font weight 400 {: .fw-400 } Font weight 500 {: .fw-500 } Font weight 700 {: .fw-700 } . ",
-    "url": "/docs/utilities/typography/#font-weight",
-    
-    "relUrl": "/docs/utilities/typography/#font-weight"
-  },"101": {
-    "doc": "Typography",
-    "title": "Line height",
-    "content": "Use the lh- classes to explicitly apply line height to text. | Class | line-height value | Notes | . | .lh-0 | 0 |   | . | .lh-tight | 1.1 | Default for headings | . | .lh-default | 1.4 | Default for body (paragraphs) | . No Line height No Line height . Tight line height Tight line height . Default line height Default line height . In Markdown, use the `{: }` wrapper to apply custom classes: No Line height No Line height {: .lh-0 } Tight line height Tight line height {: .lh-tight } Default line height Default line height {: .fh-default } . ",
-    "url": "/docs/utilities/typography/#line-height",
-    
-    "relUrl": "/docs/utilities/typography/#line-height"
-  },"102": {
-    "doc": "Typography",
-    "title": "Text justification",
-    "content": "By default text is justified left. Use these text- classes to override settings: . | Class | What it does | . | .text-left | text-align: left | . | .text-right | text-align: right | . | .text-center | text-align: center | . ",
-    "url": "/docs/utilities/typography/#text-justification",
-    
-    "relUrl": "/docs/utilities/typography/#text-justification"
-  },"103": {
-    "doc": "Typography",
-    "title": "Typography",
-    "content": " ",
-    "url": "/docs/utilities/typography/",
-    
-    "relUrl": "/docs/utilities/typography/"
-  },"104": {
     "doc": "Utilities",
     "title": "Utilities",
     "content": "CSS utility classes come in handy when you want to override default styles to create additional whitespace (margins/padding), correct unexpected shifts in font size or weight, add color, or hide (or show) something at a specific screen size. ",
     "url": "/docs/utilities",
     
     "relUrl": "/docs/utilities"
-  },"105": {
+  },"98": {
     "doc": "Web",
     "title": "Web",
     "content": "XSS Test Parent Dir . ",
     "url": "/docs/Web",
     
     "relUrl": "/docs/Web"
-  },"106": {
+  },"99": {
     "doc": "XSS",
     "title": "XSS",
     "content": "XSS Main Page . ",
     "url": "/docs/Web/XSS/xss/",
     
     "relUrl": "/docs/Web/XSS/xss/"
-  },"107": {
+  },"100": {
     "doc": "XSS - DOM",
     "title": "XSS - DOM",
     "content": " ",
     "url": "/docs/Web/XSS/xss_DOM/",
     
     "relUrl": "/docs/Web/XSS/xss_DOM/"
-  },"108": {
+  },"101": {
     "doc": "XSS - Reflected",
     "title": "Reflected XSS (Cross-Site Scripting)",
     "content": " ",
     "url": "/docs/Web/XSS/xss_reflected/#reflected-xss-cross-site-scripting",
     
     "relUrl": "/docs/Web/XSS/xss_reflected/#reflected-xss-cross-site-scripting"
-  },"109": {
+  },"102": {
     "doc": "XSS - Reflected",
     "title": "Summary",
     "content": "Reflected XSS, also known as non-persistent XSS, occurs when user-supplied data is immediately reflected back to the user by the web server without being properly sanitized or encoded. This type of XSS attack is typically delivered via a URL or a form submission, and the malicious script is executed within the browser of the victim who clicks on the crafted link. ",
     "url": "/docs/Web/XSS/xss_reflected/#summary",
     
     "relUrl": "/docs/Web/XSS/xss_reflected/#summary"
-  },"110": {
+  },"103": {
     "doc": "XSS - Reflected",
     "title": "Impact",
     "content": "Reflected XSS attacks can have significant consequences depending on the context in which they are exploited: . | Data Theft: Attackers can steal cookies, session tokens, or other sensitive data. | Account Takeover: By hijacking sessions, attackers can gain unauthorized access to user accounts. | Defacement: Malicious scripts can modify the appearance of a website. | Phishing: Attackers can redirect victims to fake login pages or other malicious sites. | . ",
     "url": "/docs/Web/XSS/xss_reflected/#impact",
     
     "relUrl": "/docs/Web/XSS/xss_reflected/#impact"
-  },"111": {
+  },"104": {
     "doc": "XSS - Reflected",
     "title": "Severity (CVSS)",
     "content": ". | Base Score: Typically between 4.0 (Medium) to 7.5 (High), depending on the context and impact. | Attack Vector: Network | Attack Complexity: Low | Privileges Required: None | User Interaction: Required | . ",
     "url": "/docs/Web/XSS/xss_reflected/#severity-cvss",
     
     "relUrl": "/docs/Web/XSS/xss_reflected/#severity-cvss"
-  },"112": {
+  },"105": {
     "doc": "XSS - Reflected",
     "title": "Detection - Exploitation",
     "content": ". | Detection: . | Manual Testing: . | Look for input fields, parameters, or URLs that reflect user input in the response. | Use tools like Burp Suite to analyze HTTP requests and responses. | . | Automated Tools: . | OWASP ZAP and Burp Suite offer automated XSS detection. | Browser-based XSS auditors, such as the ones built into Chrome or Firefox Developer Tools, can help identify reflected XSS vulnerabilities. | . | . | Exploitation: . | Crafting the Payload: . | Inject a payload such as &lt;script&gt;alert('XSS')&lt;/script&gt; into vulnerable parameters. | . | Delivering the Attack: . | Social engineering techniques are often used to trick victims into clicking on a malicious link. | . | Testing and Validation: . | If the script executes within the victim’s browser without being sanitized, the vulnerability is confirmed. | . | . | . ",
     "url": "/docs/Web/XSS/xss_reflected/#detection---exploitation",
     
     "relUrl": "/docs/Web/XSS/xss_reflected/#detection---exploitation"
-  },"113": {
+  },"106": {
     "doc": "XSS - Reflected",
     "title": "Remediation",
     "content": ". | Input Validation: . | Ensure that all user inputs are validated for allowed characters and data types. | . | Output Encoding: . | Encode user-supplied data before displaying it in the browser. Use appropriate context-specific encoding (HTML, JavaScript, URL encoding). | . | Content Security Policy (CSP): . | Implement a strict CSP to mitigate the impact of XSS by restricting the sources from which scripts can be executed. | . | Security Frameworks and Libraries: . | Use security-focused libraries and frameworks that automatically handle input sanitization and output encoding. | . | Regular Security Audits: . | Perform regular security audits and penetration tests to identify and fix XSS vulnerabilities. | . | . ",
     "url": "/docs/Web/XSS/xss_reflected/#remediation",
     
     "relUrl": "/docs/Web/XSS/xss_reflected/#remediation"
-  },"114": {
+  },"107": {
     "doc": "XSS - Reflected",
     "title": "References",
     "content": ". | OWASP Cross-Site Scripting (XSS) | PortSwigger Web Security Academy: Reflected XSS | Mozilla Developer Network (MDN): XSS Prevention | . ",
     "url": "/docs/Web/XSS/xss_reflected/#references",
     
     "relUrl": "/docs/Web/XSS/xss_reflected/#references"
-  },"115": {
+  },"108": {
     "doc": "XSS - Reflected",
     "title": "XSS - Reflected",
     "content": " ",
     "url": "/docs/Web/XSS/xss_reflected/",
     
     "relUrl": "/docs/Web/XSS/xss_reflected/"
-  },"116": {
+  },"109": {
     "doc": "XSS - Stored",
     "title": "SS Rflected",
     "content": "Test.python . ",
     "url": "/docs/Web/XSS/xss_stored/#ss-rflected",
     
     "relUrl": "/docs/Web/XSS/xss_stored/#ss-rflected"
-  },"117": {
+  },"110": {
     "doc": "XSS - Stored",
     "title": "XSS - Stored",
     "content": " ",
