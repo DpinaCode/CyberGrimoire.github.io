@@ -1,0 +1,32 @@
+<h1 id="layout">Layout</h1>
+
+<p class="fs-6 fw-300">You specify the layout for a page in its <a href="https://jekyllrb.com/docs/front-matter/" title="Jekyll docs about front matter">front matter</a>. Just the Docs has a <code class="language-plaintext highlighter-rouge">default</code> layout with a sidebar, used for almost all pages in the theme docs, and a <code class="language-plaintext highlighter-rouge">minimal</code> layout that omits the sidebar.</p>
+
+<h2 id="the-layout-concept">The layout concept</h2>
+
+<p>See the <a href="https://jekyllrb.com/docs/layouts/" title="Jekyll docs about layouts">Jekyll docs page about layouts</a> for an explanation of the general idea of layouts and how to specify them.</p>
+
+<p>You can use <a href="https://jekyllrb.com/docs/configuration/front-matter-defaults/" title="Jekyll docs about front matter defaults">Jekyll’s front matter defaults</a> to specify the same layout for many pages.</p>
+
+<h2 id="the-default-layout">The <code class="language-plaintext highlighter-rouge">default</code> layout</h2>
+
+<p>This page uses the default layout.</p>
+
+<p>It is a <em>responsive</em> layout: on medium and larger width displays, it displays a sidebar, including a navigation panel; on smaller width displays, the sidebar is automatically hidden under a button.</p>
+
+<p>Each child (and grandchild) page of a top-level page has so-called <em>breadcrumbs</em>: links to its parent (and grandparent) pages. It shows the breadcrumbs above the main content of the page.</p>
+
+<p>Each page that has child pages generally has a list of links to those pages (you can suppress it by <code class="language-plaintext highlighter-rouge">has_toc: false</code> in the front matter). It shows the list as a <em>table of contents</em> below the main content.</p>
+
+<h2 id="the-minimal-layout">The <code class="language-plaintext highlighter-rouge">minimal</code> layout</h2>
+
+<p>A child and grandchild page of this page use the minimal layout. This differs from the default layout by omitting the sidebar—and thereby also the navigation panel. To navigate between pages with the minimal layout, you can use the breadcrumbs and the tables of contents.</p>
+
+<h2 id="selectively-hiding-or-showing-the-sidebar">Selectively hiding or showing the sidebar</h2>
+
+<p><a href="https://jekyllrb.com/docs/configuration/front-matter-defaults/" title="Jekyll docs about front matter defaults">Jekyll’s front matter defaults</a> can be used to apply the <code class="language-plaintext highlighter-rouge">minimal</code> layout for many pages. But there are also other variables that can control the page layout. In <code class="language-plaintext highlighter-rouge">_config.yml</code>, you can set <code class="language-plaintext highlighter-rouge">nav_enabled: false</code> to disable the sidebar navigation panel across the entire site. This can then be selectively enabled on a page-by-page basis by assigning the <code class="language-plaintext highlighter-rouge">nav_enabled: true</code> page <a href="https://jekyllrb.com/docs/front-matter/" title="Jekyll docs about front matter">front matter</a> variable. For instance, this could be used to enable sidebar navigation on a home page while all other pages have sidebar navigation disabled.</p>
+
+<h2 id="other-layouts">Other layouts</h2>
+
+<p>Just the Docs has further layouts: <code class="language-plaintext highlighter-rouge">about</code>, <code class="language-plaintext highlighter-rouge">home</code>, <code class="language-plaintext highlighter-rouge">page</code>, and <code class="language-plaintext highlighter-rouge">post</code>. Currently, they are all based on the <code class="language-plaintext highlighter-rouge">default</code> layout. See the <a href="https://jekyllrb.com/docs/layouts/#inheritance" title="Jekyll docs about inheritance">Jekyll docs about inheritance</a> for how to customize them.</p>
+
