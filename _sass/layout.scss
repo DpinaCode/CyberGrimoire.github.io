@@ -152,6 +152,10 @@
     background-repeat: no-repeat;
     background-position: left center;
     background-size: contain;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden
   }
 }
 
