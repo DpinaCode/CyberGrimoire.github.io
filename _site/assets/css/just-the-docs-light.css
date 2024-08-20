@@ -837,6 +837,8 @@ blockquote {
   padding-top: 0.75rem;
   padding-bottom: 0.75rem;
   color: #27262b;
+  border-radius: 50%;
+  object-fit: fill;
   padding-right: 1rem;
   padding-left: 1rem;
 }
