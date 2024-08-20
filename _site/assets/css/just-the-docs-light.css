@@ -832,13 +832,20 @@ blockquote {
 .site-title {
   flex-grow: 1;
   display: flex;
-  height: 100%;
+  height: 200%; /* Adjust height as needed */
+  width: 100px;
+  background-image: url("/assets/images/banner.webp");
+  background-size: contain; /* Ensures the entire logo fits within the background */
+  background-repeat: no-repeat; /* Prevents the logo from repeating */
+  background-position: center; /* Centers the logo */
   align-items: center;
-  padding-top: 0.75rem;
+  padding-top: 2rem;
   padding-bottom: 0.75rem;
-  color: #27262b;
-  border-radius: 100%;
+  border-radius: 50%; /* Makes the logo round */
   object-fit: fill;
+  margin-right: 0 auto; /* Centers the logo in the container */
+  position: relative; /* or absolute */
+  right: 5px;
   padding-right: 1rem;
   padding-left: 1rem;
 }
@@ -876,10 +883,6 @@ blockquote {
     display: none;
   }
 }
-.site-title:hover {
-  background-image: linear-gradient(-90deg, #ebedf5 0%, rgba(235, 237, 245, 0.8) 80%, rgba(235, 237, 245, 0) 100%);
-}
-
 .site-button:hover {
   background-image: linear-gradient(-90deg, #ebedf5 0%, rgba(235, 237, 245, 0.8) 100%);
 }

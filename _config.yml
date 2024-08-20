@@ -53,7 +53,7 @@ exclude:
    - fixtures/
 
 # Set a path/url to a logo that will be displayed instead of the title
-logo: "/assets/images/banner.webp"
+logo: "/assets/images/small-image.jpg"
 
 # Enable or disable the site search
 # Supports true (default) or false
