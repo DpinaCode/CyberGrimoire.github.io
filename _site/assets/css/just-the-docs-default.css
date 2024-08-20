@@ -1101,7 +1101,7 @@ blockquote {
   padding-top: 0.75rem;
   padding-bottom: 0.75rem;
   color: #f5f6fa;
-  border-radius: 50%;
+  border-radius: 100%;
   object-fit: fill;
   padding-right: 1rem;
   padding-left: 1rem;

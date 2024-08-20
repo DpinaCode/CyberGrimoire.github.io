@@ -1,3 +1,4 @@
+@charset "UTF-8";
 .highlight,
 pre.highlight {
   background: #f9f9f9;
@@ -1100,7 +1101,7 @@ blockquote {
   padding-top: 0.75rem;
   padding-bottom: 0.75rem;
   color: #f5f6fa;
-  border-radius: 50%;
+  border-radius: 100%;
   object-fit: fill;
   padding-right: 1rem;
   padding-left: 1rem;
@@ -7925,3 +7926,5 @@ blockquote.warning-title > p:nth-child(2) {
 blockquote.warning-title > p:last-child {
   margin-bottom: 0;
 }
+
+/*# sourceMappingURL=just-the-docs-dark.css.map */
